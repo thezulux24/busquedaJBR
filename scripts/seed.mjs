@@ -38,6 +38,7 @@ const SESSIONS = [
   { id: "ses_006", date: "2026-04-25", display_name: "25 de abril de 2026",  type: "Monitorias noveno, décimo y once" },
   { id: "ses_007", date: "2026-05-02", display_name: "2 de mayo de 2026",    type: "Monitorias noveno, décimo y once" },
   { id: "ses_008", date: "2026-05-09", display_name: "9 de mayo de 2026",    type: "Monitorias noveno, décimo y once" },
+  { id: "ses_009", date: "2026-05-16", display_name: "16 de mayo de 2026",   type: "Monitorias noveno, décimo y once" },
 ];
 
 // ─── SEED ─────────────────────────────────────────────────────────────────────
